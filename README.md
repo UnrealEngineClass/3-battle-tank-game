@@ -10,3 +10,4 @@ Mohammad Ahmad
 ------
 ## Lecture List
 BT01 Intro, Notes & Assets
+BT)@ Game Design Document (GDD)
