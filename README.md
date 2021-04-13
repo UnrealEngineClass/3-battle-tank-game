@@ -10,6 +10,6 @@ Mohammad Ahmad
 ------
 ## Lecture List
 
-* BT01 Intro, Notes & Assets
-* BT)@ Game Design Document (GDD)
-* github "repo"* github "repo"
+* MA- into, Notes, Assets
+* MA- Game Design Document (GDD)
+* MA- Setting up GutHub "Repo"
